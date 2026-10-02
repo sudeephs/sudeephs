@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sudeep H S 👋</h1>
+<h1 align="center">Hi, I'm Sudeep 👋</h1>
 
 <p align="center">
   <b>Full Stack Developer</b> focused on crafting seamless user experiences backed by robust, scalable backend systems.
